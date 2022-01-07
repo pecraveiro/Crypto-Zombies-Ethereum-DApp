@@ -2,7 +2,9 @@
 <h1 align="center">
     <img src="https://ik.imagekit.io/elankfmjpxmn/Design_sem_nome_owtJRgf7Y.gif?updatedAt=1639443153973"> <!-- URL da imagen -->
 </h1>
-![1_jzKbTh-uCPfbFnJm_vCEYA](https://user-images.githubusercontent.com/79882049/148589002-f88ad584-cacc-48a4-921c-79ac2045abcb.jpeg)
+
+![1_jzKbTh-uCPfbFnJm_vCEYA](https://user-images.githubusercontent.com/79882049/148589079-bc1bba36-66df-4be5-8a82-044e1c2ccabb.jpeg)
+
 
 ## 💡 Índice
 

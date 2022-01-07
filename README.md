@@ -14,6 +14,7 @@
 
 ## 📑 Sobre: 
 
+- Working on it.
 <!-- O projeto **Contratos Inteligentes: Programação Solidity para Ethereum** é um curso da linguagem de programação Solidity - totalmente gratuito e em português -, que foi ministrado pelos professores **Rafael Nasser e Ronnie Paskin**, membros da **ECOA PUCRIO** na plataforma da **Udemy**.  -->
 
 ## 📑 Linguagem utilizada:
@@ -22,7 +23,6 @@
 
 ## 📑 Onde encontrar o curso:
 
-- [CryptoZombies](https://cryptozombies.io/)
-- CryptoZombies is an interactive school that teaches you all things technical about blockchains. Learn to make smart contracts in Solidity or Libra by making your own crypto-collectibles game.
+- [CryptoZombies](https://cryptozombies.io/) is an interactive school that teaches you all things technical about blockchains. Learn to make smart contracts in Solidity or Libra by making your own crypto-collectibles game.
 
 <p align="center">Desenvolvido por <a href ="https://www.linkedin.com/in/pecraveiro/">Pedro Craveiro</a> 🌐:octocat:</p>

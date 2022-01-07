@@ -26,6 +26,7 @@
 
 ## 🏷️ Download the animation:
 
-- [Gif](https://user-images.githubusercontent.com/79882049/148599752-ad392b8c-c74b-4a73-b72c-14ca94465cad.gif) I do not own the animated ethereum and the animateds zombies. If you know the owners, let me know so I can give credit for this gifs. 
+- [Gif](https://user-images.githubusercontent.com/79882049/148599752-ad392b8c-c74b-4a73-b72c-14ca94465cad.gif) 
+- I do **NOT** own the animated ethereum and the animateds zombies images. If you know the owners, let me know so I can give credit for this gifs. 
 
 <p align="center">Desenvolvido por <a href ="https://www.linkedin.com/in/pecraveiro/">Pedro Craveiro</a> 🌐:octocat:</p>

@@ -1,6 +1,8 @@
-
+<div align="center">
+  
 ![Design-sem-nome-5--unscreen](https://user-images.githubusercontent.com/79882049/148595972-54a8984e-96f9-462a-b015-47a1ec0f3dac.gif)
 
+</div>
 
 ## 💡 Índice
 

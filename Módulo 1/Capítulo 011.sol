@@ -21,7 +21,9 @@ contract ZombieFactory {
         return rand % dnaModulus;
     }
 
-    // comece aqui
-    // ainda não terminei
+    function createRandomZombie(string _name) public {
+        uint randDna = _generateRandomDna(_name);
+        _createZombie(_name, randDna);
+    }
 
 }
